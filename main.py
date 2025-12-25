@@ -18,9 +18,4 @@ if __name__=="__main__":
      else:
           print("teko")
 
-     pass
-     pass
 
-
-pass
-pass
