@@ -17,3 +17,6 @@ if __name__=="__main__":
           print(f"the big winner is {p2["name"]}")
      else:
           print("teko")
+
+     pass
+     pass
